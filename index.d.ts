@@ -20,6 +20,8 @@ export type TextInputMaskTypeProp =
     | 'cel-phone'
     | 'datetime'
     | 'custom'
+    | 'float-number'
+    
 
 // Option prop of TextInputMask.
 export interface TextInputMaskOptionProp {
